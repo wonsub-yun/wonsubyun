@@ -40,7 +40,7 @@ print(fix_name)
     # os.rename(, my_dest)
     # iter_num += 1
 
-
+# please do homework
 # wonsub homework
 # sub_dir = os.walk(path)
 # for dir in sub_dir:
